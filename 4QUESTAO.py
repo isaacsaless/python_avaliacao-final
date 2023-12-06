@@ -10,7 +10,7 @@ if numero == 61:
 elif numero == 71:
     print("Salvador")
 elif numero == 11:
-    print("Salvador")
+    print("São Paulo")
 elif numero == 21:
     print("Rio de Janeiro")
 elif numero == 32:
